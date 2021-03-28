@@ -1,5 +1,5 @@
 # raycasting-js
-![demo](/home/magoninho/Downloads/raycasting-d/sadf/meu-raycasting/demo.gif)
+![demo](demo.gif)
 
 This is a little raycasting made with JavaScript and P5.js. Raycasting is a rendering technique that was originally implemented in Wolfenstein 3D.
 
