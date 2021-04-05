@@ -324,7 +324,8 @@ function setFOV(angle) {
 }
 
 function setup() {
-  createCanvas(WINDOW_WIDTH*2, WINDOW_HEIGHT);
+  var myCanvas = createCanvas(WINDOW_WIDTH*2, WINDOW_HEIGHT);
+  myCanvas.parent("gameWindow")
   bg = loadImage('image.jpg');
   mouse = mouseX;
 
